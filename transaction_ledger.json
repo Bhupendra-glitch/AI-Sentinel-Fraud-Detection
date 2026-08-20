@@ -1,0 +1,459 @@
+[
+    {
+        "timestamp": "2026-04-19 12:24:44",
+        "user_id": "USER_405",
+        "amount": 0,
+        "location": "Unknown",
+        "verdict": "REVIEW",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-19 13:05:37",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-19 13:06:03",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 1.5,
+        "reasoning": "\u274c **BLOCKED.** Multiple Security Violations."
+    },
+    {
+        "timestamp": "2026-04-19 13:06:39",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-19 13:08:12",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-19 13:09:48",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-19 13:11:19",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 22:53:44",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 22:54:55",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.8999999999999999,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 22:55:35",
+        "user_id": "USER_405",
+        "verdict": "UNKNOWN",
+        "risk_score": 0.8999999999999999,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:13:49",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:13:59",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:14:08",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:14:16",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:14:35",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:27:41",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:27:45",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:27:53",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:28:26",
+        "user_id": "USER_405",
+        "verdict": "PENDING",
+        "risk_score": 0.3,
+        "reasoning": "\u26a0\ufe0f **PENDING.** Escalated to Manual Review."
+    },
+    {
+        "timestamp": "2026-04-24 23:41:30",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 is at home sending \u20b9500 for a grocery bill.\n"
+    },
+    {
+        "timestamp": "2026-04-24 23:52:50",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 100.0,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-24 23:59:52",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 100.0,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 00:00:10",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 100.0,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 00:08:07",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 100.0,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 00:22:06",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 00:26:18",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 00:28:41",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 00:33:30",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 00:35:19",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:35:35",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:38:30",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:38:48",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:39:07",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:39:50",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.23,
+        "reasoning": "User 405 sending \u20b9500 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:40:32",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.23,
+        "reasoning": "User 405 sending \u20b9500 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:40:37",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.23,
+        "reasoning": "User 405 sending \u20b9500 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:40:45",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b950 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:40:54",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b95 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:41:02",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b91 from home.\n"
+    },
+    {
+        "timestamp": "2026-04-25 00:59:38",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 100.0,
+        "reasoning": "User 405 is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:02:56",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 100.0,
+        "reasoning": "User 405 is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:05:23",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.05,
+        "reasoning": "User 405 is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:11:59",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User 405 is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:18:58",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User 405 is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:24:48",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:30:53",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:31:30",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:32:33",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:33:02",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User is sending Rs 500 from home."
+    },
+    {
+        "timestamp": "2026-04-25 01:41:27",
+        "user_id": "Unknown",
+        "verdict": "PENDING",
+        "risk_score": 0.0,
+        "reasoning": "User 405 is sending Rs 500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 01:45:34",
+        "user_id": "Unknown",
+        "verdict": "APPROVED",
+        "risk_score": 0.0,
+        "reasoning": "User 405 is sending Rs 500 from home\n"
+    },
+    {
+        "timestamp": "2026-04-25 01:47:56",
+        "user_id": "Unknown",
+        "verdict": "APPROVED",
+        "risk_score": 0.95,
+        "reasoning": "User 405 sending \u20b9100,000 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:50:16",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.95,
+        "reasoning": "User 405 sending \u20b9100,000 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:50:37",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.85,
+        "reasoning": "User 405 sending \u20b9100,00 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:50:49",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.85,
+        "reasoning": "User 405 sending \u20b91000 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:50:59",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:52:58",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:53:34",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:54:03",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:54:35",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:55:10",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 01:57:34",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 02:03:19",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.8,
+        "reasoning": "User 405 sending \u20b9100 to an unknown offshore account."
+    },
+    {
+        "timestamp": "2026-04-25 02:03:47",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 0.05,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    },
+    {
+        "timestamp": "2026-04-25 02:04:37",
+        "user_id": "Unknown",
+        "verdict": "Blocked",
+        "risk_score": 100.0,
+        "reasoning": "User 405 sending \u20b9500 from home"
+    }
+]
